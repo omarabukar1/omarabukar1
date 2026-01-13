@@ -18,7 +18,7 @@ Focused on automation, reliability, and learning through practical, end-to-end p
 
 ---
 
-!{image}(ChatGPT Image Jan 13, 2026, 07_06_10 PM.png)
+!(image)(ChatGPT Image Jan 13, 2026, 07_06_10 PM.png)
 
 ---
 
